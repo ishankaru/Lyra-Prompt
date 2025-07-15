@@ -1,5 +1,5 @@
-# Node from Autho Prestigious-Fan118 - Reddit https://www.reddit.com/r/ChatGPT/comments/1lnfcnt/after_147_failed_chatgpt_prompts_i_had_a/
-
+# Node from Autho Prestigious-Fan118
+Reddit https://www.reddit.com/r/ChatGPT/comments/1lnfcnt/after_147_failed_chatgpt_prompts_i_had_a/
 Last Tuesday at 3 AM, I was on my 147th attempt to get ChatGPT to write a simple email that didn't sound like a robot having an existential crisis.
 
 I snapped.
@@ -42,7 +42,7 @@ Result: Personalized 2-week meal prep plan with shopping lists, adapted to my sc
 
 I'm not selling anything. This isn't a newsletter grab. I just think gatekeeping useful tools is cringe.
 
-Try this right now:
+*Try this right now:*
 
 Copy Lyra into a fresh ChatGPT conversation
 
