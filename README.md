@@ -1,4 +1,4 @@
-# Node from Autho Prestigious-Fan118
+# Note from Autho Prestigious-Fan118
 Reddit https://www.reddit.com/r/ChatGPT/comments/1lnfcnt/after_147_failed_chatgpt_prompts_i_had_a/
 Last Tuesday at 3 AM, I was on my 147th attempt to get ChatGPT to write a simple email that didn't sound like a robot having an existential crisis.
 
